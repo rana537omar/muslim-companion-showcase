@@ -14,6 +14,8 @@
 
 <p align="center"><a href="https://rana537omar.github.io/muslim-companion-showcase/#demo"><img src="media/video-poster.png" alt="Watch the Muslim Companion product demo (4:26)" width="100%"></a></p>
 
+**▶ [Watch in the browser](https://rana537omar.github.io/muslim-companion-showcase/#demo)** · **⬇ [Download the video (MP4, 44 MB)](https://github.com/rana537omar/muslim-companion-showcase/releases/download/demo-v1/Muslim-Companion-demo.mp4)** · [Open the file on GitHub](media/Muslim-Companion-demo.mp4)
+
 A captioned walkthrough of 4 minutes 26 seconds, in 1080p, with no sound. It opens on the home screen, searches the Quran and plays an ayah, shows memorisation mode, prayer times with the prayer tracker, the qibla compass, the Quran stories with kids mode and a quiz, the azkar and tasbih counter, the Hijri calendar, the khatma planner, the 99 Names, the zakat calculator and the settings, then switches to Arabic and to light mode. **[Watch it on the showcase website](https://rana537omar.github.io/muslim-companion-showcase/#demo)**.
 
 ## The five essentials
